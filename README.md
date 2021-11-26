@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abdul Awal Sajib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajibcd34pro" alt="sajibcd34pro" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibcd34pro&label=Profile%20views&color=0e75b6&style=flat" alt="sajibcd34pro" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
